@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When i initialize a repository, Git puts a ".git" hidden directory in the containing folder. With the repository i will be able to commit versions of my files.
