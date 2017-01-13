@@ -15,3 +15,7 @@ We saw the parents of it's commit, so a commit without branch it's like never ex
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches together is useful for example if more than one people are working on a project and they work in different parts of it and in the end they want to complete it putting that parts together. In the diagram we represent it like this because it is just like it takes separate ways and with the merge those ways meet each other.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: in automatic merging it won't need to do it by yourself, so with less effort the branches are merged.
+cons: but in automatic merging you don't in a confict case what git will do, so the manually way in this situation is better. But in most cases files would conflict...
